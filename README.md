@@ -1,6 +1,6 @@
 # Personal Web
 
-> 如果只能用十个字来描述我自己
+> 
 > 
 
 ---
@@ -11,9 +11,7 @@
 
 📱Tel: (+86) 13167117098
 
-🔗 LinkedIn: 
-
-[](https://www.linkedin.com/in/ouwen-zhang-5b520421b/)
+🔗 LinkedIn: [https://www.linkedin.com/in/ouwen-zhang-5b520421b/](https://www.linkedin.com/in/ouwen-zhang-5b520421b/)
 
 🔗 GitHub:
 
@@ -45,8 +43,6 @@
     - The Second Prize of Academic Scholarship (4 / 39)
     - Shanghai Teaching Skills Competition for Teacher Trainees (Second Place)
     - Merit Student of Shanghai Normal University (1 / 39)
-
----
 
 ## MOOCs
 
@@ -118,6 +114,7 @@
     - Part 03 Software Engineering
         - [Introduction to Software Engineering](https://www.notion.so/Introduction-to-Software-Engineering-91dabec9edbe4e1a854eeb5e8a16052b)
         - [Software Engineering Practices 1](https://www.notion.so/Software-Engineering-Practices-1-90b97a30680d426f8749f7753749743d)
+        - [Software Engineering Practices 2](https://www.notion.so/Software-Engineering-Practices-2-44b99d3af1ab4c259b687e8b30a57ee4)
 
 - Bilibili
     - 
@@ -152,25 +149,29 @@
 
 # 🛠 Skills
 
-## 💻 Technology
+## 💻 Programming
 
-### Python ⭐️⭐️⭐️⭐️
+### Python ⭐️⭐️⭐️⭐️⭐️
 
-My "native" programming language, I've worked with it for over 6 years
+My "native" programming language, I've worked with it for over 2 years
 
-### QGIS ⭐️⭐️⭐️⭐️
+### R ⭐️
 
-My "native" programming language, I've worked with it for over 6 years
+My "native" 
 
-### Tableau ⭐️⭐️⭐️⭐️
+### Matlab / Octave⭐️
 
-My "native" programming language, I've worked with it for over 6 years
+## 💻 Software
 
-### Google Earth Engine ⭐️⭐️⭐️⭐️
+### Google Earth Engine ⭐️
 
-My "native" programming language, I've worked with it for over 6 years
+### QGIS ⭐️⭐️
 
----
+### ArcGIS ⭐️⭐️
+
+### MS Office ⭐️⭐️
+
+### Tableau ⭐️
 
 ## 🗣 Certifications
 
@@ -200,11 +201,5 @@ My "native" programming language, I've worked with it for over 6 years
 ## Technical Blog
 
 [一个网站解决中国行政区划图形数据](https://www.notion.so/8fe8e0348f9044e6b951cf717df4af6f) 
-
-## Course Notes
-
-[线性代数基础](https://www.notion.so/8fd21f7f44724d8d8d4817fbc2a34d6d) 
-
-[Python包和模块（笔记）](https://www.notion.so/Python-8bf2b5aed9a741b6bc846d6a098027ea)
 
 ## Academic Projects
