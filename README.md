@@ -14,11 +14,9 @@
 
 📱Tel: (+86) 13167117098
 
-🔗 LinkedIn: [https://www.linkedin.com/in/ouwen-zhang-5b520421b/](https://www.linkedin.com/in/ouwen-zhang-5b520421b/)
+🔗 LinkedIn: [Home Page](https://www.linkedin.com/in/ouwen-zhang-5b520421b/)
 
-🔗 GitHub:
-
-[Ashes814 - Overview](https://github.com/Ashes814)
+🔗 GitHub: [Home Page](https://github.com/Ashes814)
 
 ---
 
@@ -113,16 +111,16 @@
         - The Data Science Process
         - Communicating to Stakeholders
         - Airbnb Blog
-        - [Optimize Your GitHub Profile](https://www.notion.so/Optimize-Your-GitHub-Profile-9c7b8c7db5ce41a0ae8b07295a1ea5ee)
+        - [Optimize Your GitHub Profile](https://swamp-maraca-1c5.notion.site/Optimize-Your-GitHub-Profile-9c7b8c7db5ce41a0ae8b07295a1ea5ee)
     - Part 03 Software Engineering
-        - [Introduction to Software Engineering](https://www.notion.so/Introduction-to-Software-Engineering-91dabec9edbe4e1a854eeb5e8a16052b)
-        - [Software Engineering Practices 1](https://www.notion.so/Software-Engineering-Practices-1-90b97a30680d426f8749f7753749743d)
-        - [Software Engineering Practices 2](https://www.notion.so/Software-Engineering-Practices-2-44b99d3af1ab4c259b687e8b30a57ee4)
+        - [Introduction to Software Engineering](https://swamp-maraca-1c5.notion.site/Introduction-to-Software-Engineering-91dabec9edbe4e1a854eeb5e8a16052b)
+        - [Software Engineering Practices 1](https://swamp-maraca-1c5.notion.site/Software-Engineering-Practices-1-90b97a30680d426f8749f7753749743d)
+        - [Software Engineering Practices 2](https://swamp-maraca-1c5.notion.site/Software-Engineering-Practices-2-44b99d3af1ab4c259b687e8b30a57ee4)
 
 - Bilibili
     - 
-    - [Python包和模块](https://www.notion.so/Python-8bf2b5aed9a741b6bc846d6a098027ea)
-    - [线性代数基础](https://www.notion.so/8fd21f7f44724d8d8d4817fbc2a34d6d)
+    - [Python包和模块](https://swamp-maraca-1c5.notion.site/Python-8bf2b5aed9a741b6bc846d6a098027ea)
+    - [线性代数基础](https://swamp-maraca-1c5.notion.site/8fd21f7f44724d8d8d4817fbc2a34d6d)
 
 ---
 
