@@ -1,6 +1,9 @@
 # Personal Web
 
+> GISer by day, thinker at night
 > 
+
+> 🔥 不积跬步，无以至千里 / No step, no mile
 > 
 
 ---
