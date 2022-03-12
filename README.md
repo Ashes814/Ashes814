@@ -53,23 +53,23 @@
     - `Data Science`
         - [Machine Learning - Standford](https://coursera.org/share/05fe002e0048af24d1075f0b5d650f6d)
         - [R Programming - JHU](https://coursera.org/share/dce4b44f3d5538c9da1bc701eac1b135)
-        - **[The Data Scientist’s Toolbox - JHU](https://coursera.org/share/465a13d6f02ed62dfa26e61d5dfab230)**
-        - ****[Python for Data Science, AI & Development - IBM](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome)****
-        - ****[Data Science Methodology - IBM](https://www.coursera.org/learn/data-science-methodology/home/welcome)****
-        - ****[Tools for Data Science - IBM](https://www.coursera.org/learn/open-source-tools-for-data-science/home/welcome)****
-        - ****[What is Data Science? - IBM](https://www.coursera.org/learn/what-is-datascience/home/welcome)****
+        - [The Data Scientist’s Toolbox - JHU](https://coursera.org/share/465a13d6f02ed62dfa26e61d5dfab230)**
+        - [Python for Data Science, AI & Development - IBM](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome)****
+        - [Data Science Methodology - IBM](https://www.coursera.org/learn/data-science-methodology/home/welcome)****
+        - [Tools for Data Science - IBM](https://www.coursera.org/learn/open-source-tools-for-data-science/home/welcome)****
+        - [What is Data Science? - IBM](https://www.coursera.org/learn/what-is-datascience/home/welcome)****
     - `Computer Science`
         - [Algorithmic Toolbox - UCSD](https://coursera.org/share/b3fdbd89181e32b6f336d177cd98998b)
     - `Geographical Information Science`
         - [Spatial Data Science and Applications - Yonsei University](https://coursera.org/share/94cfb70a07787eee44bb719fbf5c3d65)
-        - ****[Fundamentals of GIS - UCD](https://coursera.org/share/fcd4ff846cba4e8756aa0e8ac1396223)****
+        - [Fundamentals of GIS - UCD](https://coursera.org/share/fcd4ff846cba4e8756aa0e8ac1396223)****
     - `Mathematics`
-        - **[Calculus through Data & Modeling: Precalculus Review - JHU](https://coursera.org/share/338c352f492de562319f7fca9ae270df)**
-        - ****[Probability Theory: Foundation for Data Science - UCB](https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/welcome)**
+        - [Calculus through Data & Modeling: Precalculus Review - JHU](https://coursera.org/share/338c352f492de562319f7fca9ae270df)**
+        - [Probability Theory: Foundation for Data Science - UCB](https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/welcome)**
     - `Other`
-        - ****[Advanced Writing - UCI](https://coursera.org/share/820afe28f98abf578dec54a3b158180c)****
-        - **[Getting Started with Essay Writing - UCI](https://coursera.org/share/823db706a0fcf2f264923d535f27cb89)**
-        - **[Grammar and Punctuation - UCI](https://coursera.org/share/4bb5c407f546fe7466b72bb3267f54a1)**
+        - [Advanced Writing - UCI](https://coursera.org/share/820afe28f98abf578dec54a3b158180c)****
+        - [Getting Started with Essay Writing - UCI](https://coursera.org/share/823db706a0fcf2f264923d535f27cb89)**
+        - [Grammar and Punctuation - UCI](https://coursera.org/share/4bb5c407f546fe7466b72bb3267f54a1)**
 - [Datacamp](https://www.datacamp.com/profile/segs007-59d602cc-1245-4ede-a262-b1ccf3b6ef92)
     - `Python`
         - Analyzing Social Media Data in Python
@@ -111,16 +111,16 @@
         - The Data Science Process
         - Communicating to Stakeholders
         - Airbnb Blog
-        - [Optimize Your GitHub Profile](https://www.notion.so/Optimize-Your-GitHub-Profile-9c7b8c7db5ce41a0ae8b07295a1ea5ee)
+        - [Optimize Your GitHub Profile](https://swamp-maraca-1c5.notion.site/Optimize-Your-GitHub-Profile-9c7b8c7db5ce41a0ae8b07295a1ea5ee)
     - Part 03 Software Engineering
-        - [Introduction to Software Engineering](https://www.notion.so/Introduction-to-Software-Engineering-91dabec9edbe4e1a854eeb5e8a16052b)
-        - [Software Engineering Practices 1](https://www.notion.so/Software-Engineering-Practices-1-90b97a30680d426f8749f7753749743d)
-        - [Software Engineering Practices 2](https://www.notion.so/Software-Engineering-Practices-2-44b99d3af1ab4c259b687e8b30a57ee4)
+        - [Introduction to Software Engineering](https://swamp-maraca-1c5.notion.site/Introduction-to-Software-Engineering-91dabec9edbe4e1a854eeb5e8a16052b)
+        - [Software Engineering Practices 1](https://swamp-maraca-1c5.notion.site/Software-Engineering-Practices-1-90b97a30680d426f8749f7753749743d)
+        - [Software Engineering Practices 2](https://swamp-maraca-1c5.notion.site/Software-Engineering-Practices-2-44b99d3af1ab4c259b687e8b30a57ee4)
 
 - Bilibili
-    - [Python面向对象](https://www.notion.so/Python-133dbe48595c4689836f3a1aff86dbb6)
-    - [Python包和模块](https://www.notion.so/Python-8bf2b5aed9a741b6bc846d6a098027ea)
-    - [线性代数基础](https://www.notion.so/8fd21f7f44724d8d8d4817fbc2a34d6d)
+    - [Python面向对象](https://swamp-maraca-1c5.notion.site/Python-133dbe48595c4689836f3a1aff86dbb6)
+    - [Python包和模块](https://swamp-maraca-1c5.notion.site/Python-8bf2b5aed9a741b6bc846d6a098027ea)
+    - [线性代数基础](https://swamp-maraca-1c5.notion.site/8fd21f7f44724d8d8d4817fbc2a34d6d)
 
 ---
 
@@ -201,6 +201,6 @@ My "native"
 
 ## Technical Blog
 
-[一个网站解决中国行政区划图形数据](https://www.notion.so/8fe8e0348f9044e6b951cf717df4af6f) 
+[一个网站解决中国行政区划图形数据](https://swamp-maraca-1c5.notion.site/8fe8e0348f9044e6b951cf717df4af6f) 
 
 ## Academic Projects
