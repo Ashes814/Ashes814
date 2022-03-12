@@ -22,7 +22,7 @@
 
 # 📚 Education
 
-## **Bachelor of Science in Geography (Normal),        Shanghai, China**
+## **[Bachelor of Science in Geography (Normal)](https://swamp-maraca-1c5.notion.site/BS-Diploma-d66544652d5c4dd8b29109878d3785d3),        Shanghai, China**
 
 *2017.09-2021.06 (Shanghai Normal University)*
 
