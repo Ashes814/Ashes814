@@ -53,23 +53,23 @@
     - `Data Science`
         - [Machine Learning - Standford](https://coursera.org/share/05fe002e0048af24d1075f0b5d650f6d)
         - [R Programming - JHU](https://coursera.org/share/dce4b44f3d5538c9da1bc701eac1b135)
-        - [The Data Scientist’s Toolbox - JHU](https://coursera.org/share/465a13d6f02ed62dfa26e61d5dfab230)**
-        - [Python for Data Science, AI & Development - IBM](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome)****
-        - [Data Science Methodology - IBM](https://www.coursera.org/learn/data-science-methodology/home/welcome)****
-        - [Tools for Data Science - IBM](https://www.coursera.org/learn/open-source-tools-for-data-science/home/welcome)****
-        - [What is Data Science? - IBM](https://www.coursera.org/learn/what-is-datascience/home/welcome)****
+        - [The Data Scientist’s Toolbox - JHU](https://coursera.org/share/465a13d6f02ed62dfa26e61d5dfab230)
+        - [Python for Data Science, AI & Development - IBM](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome)
+        - [Data Science Methodology - IBM](https://www.coursera.org/learn/data-science-methodology/home/welcome)
+        - [Tools for Data Science - IBM](https://www.coursera.org/learn/open-source-tools-for-data-science/home/welcome)
+        - [What is Data Science? - IBM](https://www.coursera.org/learn/what-is-datascience/home/welcome)
     - `Computer Science`
         - [Algorithmic Toolbox - UCSD](https://coursera.org/share/b3fdbd89181e32b6f336d177cd98998b)
     - `Geographical Information Science`
         - [Spatial Data Science and Applications - Yonsei University](https://coursera.org/share/94cfb70a07787eee44bb719fbf5c3d65)
-        - [Fundamentals of GIS - UCD](https://coursera.org/share/fcd4ff846cba4e8756aa0e8ac1396223)****
+        - [Fundamentals of GIS - UCD](https://coursera.org/share/fcd4ff846cba4e8756aa0e8ac1396223)
     - `Mathematics`
-        - [Calculus through Data & Modeling: Precalculus Review - JHU](https://coursera.org/share/338c352f492de562319f7fca9ae270df)**
-        - [Probability Theory: Foundation for Data Science - UCB](https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/welcome)**
+        - [Calculus through Data & Modeling: Precalculus Review - JHU](https://coursera.org/share/338c352f492de562319f7fca9ae270df)
+        - [Probability Theory: Foundation for Data Science - UCB](https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/welcome)
     - `Other`
-        - [Advanced Writing - UCI](https://coursera.org/share/820afe28f98abf578dec54a3b158180c)****
-        - [Getting Started with Essay Writing - UCI](https://coursera.org/share/823db706a0fcf2f264923d535f27cb89)**
-        - [Grammar and Punctuation - UCI](https://coursera.org/share/4bb5c407f546fe7466b72bb3267f54a1)**
+        - [Advanced Writing - UCI](https://coursera.org/share/820afe28f98abf578dec54a3b158180c)
+        - [Getting Started with Essay Writing - UCI](https://coursera.org/share/823db706a0fcf2f264923d535f27cb89)
+        - [Grammar and Punctuation - UCI](https://coursera.org/share/4bb5c407f546fe7466b72bb3267f54a1)
 - [Datacamp](https://www.datacamp.com/profile/segs007-59d602cc-1245-4ede-a262-b1ccf3b6ef92)
     - `Python`
         - Analyzing Social Media Data in Python
