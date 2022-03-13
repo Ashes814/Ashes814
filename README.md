@@ -203,7 +203,8 @@ My "native"
 ## Technical Blog
 
 
-[Find where has most AirBnb hosts](https://swamp-maraca-1c5.notion.site/Airbnb_Readme-a7b8ba49bc9d4dc6a53a15e1067173cf)
-[一个网站解决中国行政区划图形数据](https://swamp-maraca-1c5.notion.site/8fe8e0348f9044e6b951cf717df4af6f) 
+- [Find where has most AirBnb hosts](https://swamp-maraca-1c5.notion.site/Airbnb_Readme-a7b8ba49bc9d4dc6a53a15e1067173cf)
+
+- [一个网站解决中国行政区划图形数据](https://swamp-maraca-1c5.notion.site/8fe8e0348f9044e6b951cf717df4af6f) 
 
 ## Academic Projects
