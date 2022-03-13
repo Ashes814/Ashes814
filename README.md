@@ -26,7 +26,7 @@
 
 *2017.09-2021.06 (Shanghai Normal University)*
 
-- Average score: 88.87    GPA: 3.69/4.00    Ranking: 1/39
+- Average score: 88.87    [GPA](https://swamp-maraca-1c5.notion.site/GPA-cba0f42fd8ac4bb7bd63c383e089146f): 3.69/4.00    Ranking: 1/39
 - Main Courses: Physical Geography, Human Geography, GIS & RS Theory, Advanced Mathematic, Geographical Research Methods.
 - Awards & Scholarships
     - Shanghai Outstanding Graduate (2 / 39)
