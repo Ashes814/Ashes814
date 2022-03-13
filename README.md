@@ -116,6 +116,7 @@
         - [Introduction to Software Engineering](https://swamp-maraca-1c5.notion.site/Introduction-to-Software-Engineering-91dabec9edbe4e1a854eeb5e8a16052b)
         - [Software Engineering Practices 1](https://swamp-maraca-1c5.notion.site/Software-Engineering-Practices-1-90b97a30680d426f8749f7753749743d)
         - [Software Engineering Practices 2](https://swamp-maraca-1c5.notion.site/Software-Engineering-Practices-2-44b99d3af1ab4c259b687e8b30a57ee4)
+        - [Web Development](https://swamp-maraca-1c5.notion.site/Web-Development-55a5e1f5e5364dedb8376d3a6253de99)
 
 - Bilibili
     - [Python面向对象](https://swamp-maraca-1c5.notion.site/Python-133dbe48595c4689836f3a1aff86dbb6)
