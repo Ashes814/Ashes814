@@ -32,7 +32,7 @@
     - Shanghai Outstanding Graduate (2 / 39)
     - Members of Shanghai Normal University’s Outstanding Student Mission (20 / 20000+)
     - [National Scholarship](https://swamp-maraca-1c5.notion.site/National-Scholarship-e9a10e6f4921413891703dfb4ba15652) (1 / 600+)
-    - “Dadi” Scholarship (10 / 600+)
+    - [“Dadi” Scholarship (10 / 600+)](https://swamp-maraca-1c5.notion.site/dadi-scholarship-78ae735ad17a404191923a0805e2b818)
     - The First Prize of Academic Scholarship (1 / 39)
     - Mathematical Contest in Modeling (Honorable Mention)
     - The Third Prize of “ZhongQin” CUP Mathematical Contest in Modeling
