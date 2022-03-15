@@ -32,14 +32,14 @@
     - Shanghai Outstanding Graduate (2 / 39)
     - Members of Shanghai Normal University’s Outstanding Student Mission (20 / 20000+)
     - [National Scholarship](https://swamp-maraca-1c5.notion.site/National-Scholarship-e9a10e6f4921413891703dfb4ba15652) (1 / 600+)
-    - [“Dadi” Scholarship (10 / 600+)](https://swamp-maraca-1c5.notion.site/dadi-scholarship-78ae735ad17a404191923a0805e2b818)
+    - [“Dadi” Scholarship](https://swamp-maraca-1c5.notion.site/dadi-scholarship-78ae735ad17a404191923a0805e2b818) (10 / 600+)
     - The First Prize of Academic Scholarship (1 / 39)
     - Mathematical Contest in Modeling (Honorable Mention)
     - The Third Prize of “ZhongQin” CUP Mathematical Contest in Modeling
     - Excellent Awards of “Shangqi” CUP College Students’ Scientific Innovative Competition
     - The Third Prize of “MathorCUP” Mathematical Contest in Modeling
     - Excellent League Member of Shanghai Normal University (2 / 39)
-    - The Third Prize of Contemporary Undergraduate Mathematical Contest in Modeling
+    - [The Third Prize of Contemporary Undergraduate Mathematical Contest in Modeling](https://swamp-maraca-1c5.notion.site/cumcm-4872bdd7e74b48958a16d8ac61074fde)
     - “Knowledge Bank” CUP College Students’ Social Practice Competition (Top Ten)
     - The Second Prize of Academic Scholarship (4 / 39)
     - Shanghai Teaching Skills Competition for Teacher Trainees (Second Place)
