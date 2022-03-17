@@ -29,7 +29,7 @@
 - Average score: 88.87    [GPA](https://swamp-maraca-1c5.notion.site/GPA-cba0f42fd8ac4bb7bd63c383e089146f): 3.69/4.00    Ranking: 1/39
 - Main Courses: Physical Geography, Human Geography, GIS & RS Theory, Advanced Mathematic, Geographical Research Methods.
 - Awards & Scholarships
-    - Shanghai Outstanding Graduate (2 / 39)
+    - [Shanghai Outstanding Graduate](https://swamp-maraca-1c5.notion.site/outstanding-graduation-2bc901ae833b40f4ab34db3c1e4e6a3d) (2 / 39)
     - Members of Shanghai Normal University’s Outstanding Student Mission (20 / 20000+)
     - [National Scholarship](https://swamp-maraca-1c5.notion.site/National-Scholarship-e9a10e6f4921413891703dfb4ba15652) (1 / 600+)
     - [“Dadi” Scholarship](https://swamp-maraca-1c5.notion.site/dadi-scholarship-78ae735ad17a404191923a0805e2b818) (10 / 600+)
