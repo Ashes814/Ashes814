@@ -42,7 +42,7 @@
     - [The Third Prize of Contemporary Undergraduate Mathematical Contest in Modeling](https://swamp-maraca-1c5.notion.site/cumcm-4872bdd7e74b48958a16d8ac61074fde)
     - “Knowledge Bank” CUP College Students’ Social Practice Competition (Top Ten)
     - The Second Prize of Academic Scholarship (4 / 39)
-    - Shanghai Teaching Skills Competition for Teacher Trainees (Second Place)
+    - [Shanghai Teaching Skills Competition for Teacher Trainees](https://swamp-maraca-1c5.notion.site/normal-contest-cb973203e5394b2095b43bfb81ab61a3) (Second Place)
     - Merit Student of Shanghai Normal University (1 / 39)
 
 ## MOOCs
