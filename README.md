@@ -60,6 +60,7 @@
         - [What is Data Science? - IBM](https://www.coursera.org/learn/what-is-datascience/home/welcome)
     - `Computer Science`
         - [Algorithmic Toolbox - UCSD](https://coursera.org/share/b3fdbd89181e32b6f336d177cd98998b)
+        - [Data Structures - UCSD](https://swamp-maraca-1c5.notion.site/Data-Structures-UCSD-d902a3bd82024cad95ff866e584632a3)
     - `Geographical Information Science`
         - [Spatial Data Science and Applications - Yonsei University](https://coursera.org/share/94cfb70a07787eee44bb719fbf5c3d65)
         - [Fundamentals of GIS - UCD](https://coursera.org/share/fcd4ff846cba4e8756aa0e8ac1396223)
