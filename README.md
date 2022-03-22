@@ -118,7 +118,8 @@
         - [Software Engineering Practices 1](https://swamp-maraca-1c5.notion.site/Software-Engineering-Practices-1-90b97a30680d426f8749f7753749743d)
         - [Software Engineering Practices 2](https://swamp-maraca-1c5.notion.site/Software-Engineering-Practices-2-44b99d3af1ab4c259b687e8b30a57ee4)
         - [Web Development](https://swamp-maraca-1c5.notion.site/Web-Development-55a5e1f5e5364dedb8376d3a6253de99)
-
+    - Part 04 Data Engineering
+        - [Introduction to Data Engineering](https://swamp-maraca-1c5.notion.site/Introduction-to-Data-Engineering-7dd157d92f9241d9b5a743f64e54ff67)
 - Bilibili
     - [Python面向对象](https://swamp-maraca-1c5.notion.site/Python-133dbe48595c4689836f3a1aff86dbb6)
     - [Python包和模块](https://swamp-maraca-1c5.notion.site/Python-8bf2b5aed9a741b6bc846d6a098027ea)
