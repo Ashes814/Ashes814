@@ -74,7 +74,7 @@
 - [Datacamp](https://www.datacamp.com/profile/segs007-59d602cc-1245-4ede-a262-b1ccf3b6ef92)
     - `Python`
         - Data Engineering for Everyone
-        - (Analyzing Social Media Data in Python)[https://swamp-maraca-1c5.notion.site/Analyzing-Social-Media-Data-in-Python-11cc4e98fa53420f80dd8de341911181]
+        - [Analyzing Social Media Data in Python](https://swamp-maraca-1c5.notion.site/Analyzing-Social-Media-Data-in-Python-11cc4e98fa53420f80dd8de341911181)
         - Data Manipulation with pandas
         - Dimensionality Reduction in Python
         - Feature Engineering for Machine Learning in Python
