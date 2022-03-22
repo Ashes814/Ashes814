@@ -73,9 +73,8 @@
         - [Grammar and Punctuation - UCI](https://coursera.org/share/4bb5c407f546fe7466b72bb3267f54a1)
 - [Datacamp](https://www.datacamp.com/profile/segs007-59d602cc-1245-4ede-a262-b1ccf3b6ef92)
     - `Python`
-        - Analyzing Social Media Data in Python
         - Data Engineering for Everyone
-        - Analyzing Social Media Data in Python
+        - (Analyzing Social Media Data in Python)[https://swamp-maraca-1c5.notion.site/Analyzing-Social-Media-Data-in-Python-11cc4e98fa53420f80dd8de341911181]
         - Data Manipulation with pandas
         - Dimensionality Reduction in Python
         - Feature Engineering for Machine Learning in Python
@@ -107,6 +106,7 @@
         - Introduction to Shell
     - `Projects`
         - Introduction to DataCamp Projects
+       
 - Udacity Data Scientist Nano degree
     - Part 02 Introduction to Data Science
         - The Data Science Process
