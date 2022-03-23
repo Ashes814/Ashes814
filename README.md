@@ -215,3 +215,5 @@ My "native"
 - [World Bank Data Dashboard](https://ashes814-first.herokuapp.com)
 
 ## Academic Projects
+
+- Graduation Thesis
