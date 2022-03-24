@@ -12,7 +12,7 @@
 
 📧 Email address: 1000444691@smail.shnu.edu.cn
 
-📱Tel: (+86) 13167117098
+📱Tel: (+86) 131****7098
 
 🔗 LinkedIn: [Home Page](https://www.linkedin.com/in/ouwen-zhang-5b520421b/)
 
