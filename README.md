@@ -30,7 +30,7 @@
 - Main Courses: Physical Geography, Human Geography, GIS & RS Theory, Advanced Mathematic, Geographical Research Methods.
 - Awards & Scholarships
     - [Shanghai Outstanding Graduate](https://swamp-maraca-1c5.notion.site/outstanding-graduation-2bc901ae833b40f4ab34db3c1e4e6a3d) (2 / 39)
-    - Members of Shanghai Normal University’s Outstanding Student Mission (20 / 20000+)
+    - [Members of Shanghai Normal University’s Outstanding Student Mission](https://mp.weixin.qq.com/s?src=11&timestamp=1648105528&ver=3695&signature=cB5TARRWt1RWDgemTMvm4kO6S33qPwGuuBqyIgmkI6I7tyuiz-*l9t0p7PpEcnwPKLVLmm3tKlpsUx2vWdI*hh1u3exN7fTL6aMWyZCdtXxC3vLNgLVMuQqQu9eBuqnv&new=1) (20 / 20000+)
     - [National Scholarship](https://swamp-maraca-1c5.notion.site/National-Scholarship-e9a10e6f4921413891703dfb4ba15652) (1 / 600+)
     - [“Dadi” Scholarship](https://swamp-maraca-1c5.notion.site/dadi-scholarship-78ae735ad17a404191923a0805e2b818) (10 / 600+)
     - [The First Prize of Academic Scholarship](https://swamp-maraca-1c5.notion.site/Academic-Scholarship-d2a4a2d07da84161b60e30d0453ceeaf) (1 / 39)
