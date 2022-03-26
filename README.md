@@ -141,6 +141,7 @@
 - Developed scripts to process spatial data with *Pyqgis*.
 - Managed geodatabase of automotive sales network with Python and SQL.
 - Crawled information from different websites related to automotive sales networks with *scrapy*.
+- Map Visuallization for Sales Network.
 
 ## **Internship of Education**
 
