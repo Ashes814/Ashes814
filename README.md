@@ -168,6 +168,8 @@ My "native"
 
 ### Matlab / Octave⭐️
 
+### SQL ⭐️
+
 ## 💻 Software
 
 ### Google Earth Engine ⭐️
