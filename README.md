@@ -182,6 +182,7 @@ My "native"
 
 ### Tableau ⭐️
 
+### Notion ⭐️⭐️⭐️⭐️
 ## 🗣 Certifications
 
 ### Chinese Mandarin
