@@ -170,7 +170,7 @@ My "native"
 
 ### SQL ⭐️
 
-## 💻 Software
+## 💻 Softwares
 
 ### Google Earth Engine ⭐️
 
