@@ -220,4 +220,4 @@ My "native"
 
 ## Academic Projects
 
-- Graduation Thesis (Rese)
+- Graduation Thesis (Resea)
