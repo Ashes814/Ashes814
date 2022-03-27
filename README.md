@@ -108,6 +108,8 @@
         - Introduction to DataCamp Projects
        
 - Udacity Data Scientist Nano degree
+    - Part 01 Big Data
+        - [Intro to Hadoop and MapReduce](https://swamp-maraca-1c5.notion.site/Intro-to-Hadoop-and-MapReduce-757e2cd9bf1e4cbcaa5b9848796235e9)
     - Part 02 Introduction to Data Science
         - The Data Science Process
         - Communicating to Stakeholders
