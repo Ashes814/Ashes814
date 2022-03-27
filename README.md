@@ -220,4 +220,4 @@ My "native"
 
 ## Academic Projects
 
-- Graduation Thesis (Research o)
+- Graduation Thesis (Research on)
