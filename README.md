@@ -174,7 +174,7 @@ My "native"
 
 ## 💻 Softwares
 
-### Google Earth Engine (GEE)⭐️
+`Google Earth Engine (GEE)`⭐️
 
 ### QGIS ⭐️⭐️
 
