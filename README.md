@@ -170,7 +170,7 @@ My "native"
 
 `Matlab / Octave`⭐️
 
-## SQL ⭐️
+# SQL ⭐️
 
 ## 💻 Softwares
 
