@@ -168,7 +168,7 @@ My "native" programming language, I've worked with it for over 2 years
 
 My "native" 
 
-# Matlab / Octave⭐️
+ Matlab / Octave⭐️
 
 ### SQL ⭐️
 
