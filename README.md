@@ -176,7 +176,7 @@ My "native"
 
 `Google Earth Engine (GEE)`⭐️
 
-### QGIS ⭐️⭐️
+`QGIS` ⭐️⭐️
 
 ### ArcGIS ⭐️⭐️
 
