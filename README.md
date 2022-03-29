@@ -178,7 +178,7 @@ My "native"
 
 `QGIS` ⭐️⭐️
 
-# ArcGIS ⭐️⭐️
+ ArcGIS ⭐️⭐️
 
 ### MS Office ⭐️⭐️
 
