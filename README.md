@@ -180,7 +180,7 @@ My "native"
 
 `ArcGIS` ⭐️⭐️
 
-MS Office ⭐️⭐️
+`MS Office` ⭐️⭐️
 
 ### Tableau ⭐️
 
