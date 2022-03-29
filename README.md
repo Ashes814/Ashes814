@@ -182,7 +182,7 @@ My "native"
 
 `MS Office` ⭐️⭐️
 
-## Tableau ⭐️
+# Tableau ⭐️
 
 ### Notion ⭐️⭐️⭐️⭐️
 ## 📜 Certifications
