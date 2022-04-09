@@ -124,7 +124,7 @@
         - [Introduction to Data Engineering](https://swamp-maraca-1c5.notion.site/Introduction-to-Data-Engineering-7dd157d92f9241d9b5a743f64e54ff67)
         - [ETL Pipelines](https://swamp-maraca-1c5.notion.site/ETL-Pipelines-e307e9caea51454ea00f71a7107851b1)
         - [NLP Pipelines](https://swamp-maraca-1c5.notion.site/NLP-Pipelines-346aad25f696454f90aed27f1c52c9f4)
-        -
+        - [ML Pipelines](https://swamp-maraca-1c5.notion.site/ML-Pipelines-81da58df614044389b6aa2513ce5b9f0)
         - [Build Linkedin Profile](https://swamp-maraca-1c5.notion.site/Build-Linkedin-Profile-4a519b9c24c044d1ac5f740c2e6f07a4)
         
 - Bilibili
