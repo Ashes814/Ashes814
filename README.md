@@ -206,7 +206,7 @@ My "native"
 
 ---
 
-# 📜 Publications
+# 📜 Publication
 
 - Lishan Xiao, Sha Huang, Zhilong Ye, **Ouwen Zhang**, Tao Lin. Identifying multiple stakeholders’ roles and network in urban waste separation management-a case study in Xiamen, China[J]. *Journal of Cleaner Production*, 2021, 278.
 
