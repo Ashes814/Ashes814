@@ -110,6 +110,7 @@
 - Udacity Data Scientist Nano degree
     - Part 00 Mathematic Foundations
         - [Descriptive Statistics - Part I](https://swamp-maraca-1c5.notion.site/Descriptive-Statistics-Part-I-6badac4079044ebca0fe719545675ef6)
+        - [Descriptive Statistics - Part II](https://swamp-maraca-1c5.notion.site/Descriptive-Statistics-Part-II-72dfef5f6adb449dacc11f651dd3b6f6)
     - Part 01 Big Data
         - [Intro to Hadoop and MapReduce](https://swamp-maraca-1c5.notion.site/Intro-to-Hadoop-and-MapReduce-757e2cd9bf1e4cbcaa5b9848796235e9)
     - Part 02 Introduction to Data Science
