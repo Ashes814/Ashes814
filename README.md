@@ -101,6 +101,8 @@
         - Functions for Manipulating Data in SQL Server
         - Time Series Analysis in SQL Server
         - Joining Data in SQL
+    - `Machine Learning Scientist with Python`
+        - [Supervised Learning with scikit-learn](https://swamp-maraca-1c5.notion.site/Supervised-Learning-with-scikit-learn-b6a78acf6e7c4f2582b1a047b5188f2c)
     - `Other`
         - Introduction to GIT
         - Introduction to Shell
