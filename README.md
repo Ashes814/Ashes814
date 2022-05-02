@@ -106,6 +106,7 @@
         - [Unsupervised Learning in Python](https://swamp-maraca-1c5.notion.site/Unsupervised-Learning-in-Python-a8839a681f64450a834ed9aab1a539ce)
         - [Linear Classifiers in Python](https://swamp-maraca-1c5.notion.site/Linear-Classifiers-in-Python-7971dec519ed401c88a707e8899a8974)
         - [Machine Learning with Tree-Based Models in Python](https://swamp-maraca-1c5.notion.site/Machine-Learning-with-Tree-Based-Models-in-Python-8b0fc282f15649e3b324741018212920)
+        - [Extreme Gradient Boosting with XGBoost](https://swamp-maraca-1c5.notion.site/Extreme-Gradient-Boosting-with-XGBoost-e0381a34637e4448b7d674b88a84a15c)
     - `Other`
         - Introduction to GIT
         - Introduction to Shell
