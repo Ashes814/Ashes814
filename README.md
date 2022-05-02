@@ -105,6 +105,7 @@
         - [Supervised Learning with scikit-learn](https://swamp-maraca-1c5.notion.site/Supervised-Learning-with-scikit-learn-b6a78acf6e7c4f2582b1a047b5188f2c)
         - [Unsupervised Learning in Python](https://swamp-maraca-1c5.notion.site/Unsupervised-Learning-in-Python-a8839a681f64450a834ed9aab1a539ce)
         - [Linear Classifiers in Python](https://swamp-maraca-1c5.notion.site/Linear-Classifiers-in-Python-7971dec519ed401c88a707e8899a8974)
+        - [Machine Learning with Tree-Based Models in Python](https://swamp-maraca-1c5.notion.site/Machine-Learning-with-Tree-Based-Models-in-Python-8b0fc282f15649e3b324741018212920)
     - `Other`
         - Introduction to GIT
         - Introduction to Shell
