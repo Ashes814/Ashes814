@@ -109,6 +109,7 @@
         - [Extreme Gradient Boosting with XGBoost](https://swamp-maraca-1c5.notion.site/Extreme-Gradient-Boosting-with-XGBoost-e0381a34637e4448b7d674b88a84a15c)
         - [Cluster Analysis in Python](https://swamp-maraca-1c5.notion.site/Cluster-Analysis-in-Python-29186bfd81e84cbabd07496267ecfaf6)
         - [Model Validation In Python](https://swamp-maraca-1c5.notion.site/Model-Validation-In-Python-e4cd7eaa68724089a57fabf9229b44d8)
+        - [Introduction to Natural Language Processing in Python](https://swamp-maraca-1c5.notion.site/Introduction-to-Natural-Language-Processing-in-Python-0e3cbb42ad264e71b305b8b99bffc418)
     - `Other`
         - Introduction to GIT
         - Introduction to Shell
