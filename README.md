@@ -110,6 +110,7 @@
         - [Cluster Analysis in Python](https://swamp-maraca-1c5.notion.site/Cluster-Analysis-in-Python-29186bfd81e84cbabd07496267ecfaf6)
         - [Model Validation In Python](https://swamp-maraca-1c5.notion.site/Model-Validation-In-Python-e4cd7eaa68724089a57fabf9229b44d8)
         - [Introduction to Natural Language Processing in Python](https://swamp-maraca-1c5.notion.site/Introduction-to-Natural-Language-Processing-in-Python-0e3cbb42ad264e71b305b8b99bffc418)
+        - [Feature Engineering for NLP in Python](https://swamp-maraca-1c5.notion.site/Feature-Engineering-for-NLP-in-Python-ae102a78c6684da7b8af0a550146984f)
     - `Other`
         - Introduction to GIT
         - Introduction to Shell
