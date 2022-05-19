@@ -111,6 +111,7 @@
         - [Model Validation In Python](https://swamp-maraca-1c5.notion.site/Model-Validation-In-Python-e4cd7eaa68724089a57fabf9229b44d8)
         - [Introduction to Natural Language Processing in Python](https://swamp-maraca-1c5.notion.site/Introduction-to-Natural-Language-Processing-in-Python-0e3cbb42ad264e71b305b8b99bffc418)
         - [Feature Engineering for NLP in Python](https://swamp-maraca-1c5.notion.site/Feature-Engineering-for-NLP-in-Python-ae102a78c6684da7b8af0a550146984f)
+        - [Introduction to TensorFlow in Python](https://swamp-maraca-1c5.notion.site/Introduction-to-TensorFlow-in-Python-a866dc2d42eb4d21839c025b83067ce3)
     - `Other`
         - Introduction to GIT
         - Introduction to Shell
