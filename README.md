@@ -112,6 +112,7 @@
         - [Introduction to Natural Language Processing in Python](https://swamp-maraca-1c5.notion.site/Introduction-to-Natural-Language-Processing-in-Python-0e3cbb42ad264e71b305b8b99bffc418)
         - [Feature Engineering for NLP in Python](https://swamp-maraca-1c5.notion.site/Feature-Engineering-for-NLP-in-Python-ae102a78c6684da7b8af0a550146984f)
         - [Introduction to TensorFlow in Python](https://swamp-maraca-1c5.notion.site/Introduction-to-TensorFlow-in-Python-a866dc2d42eb4d21839c025b83067ce3)
+        - [Introduction to deep learning with Keras](https://swamp-maraca-1c5.notion.site/Introduction-to-deep-learning-with-Keras-607a2ce45ead4e64b35e8a92ff3086f2)
     - `Other`
         - Introduction to GIT
         - Introduction to Shell
