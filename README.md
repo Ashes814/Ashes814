@@ -26,7 +26,7 @@
 
 *2017.09-2021.06 (Shanghai Normal University)*
 
-- Average score: 88.87    [GPA](https://swamp-maraca-1c5.notion.site/GPA-cba0f42fd8ac4bb7bd63c383e089146f): 3.69/4.00    Ranking: 1/39
+- Average score: 88.87    [GPA](https://swamp-maraca-1c5.notion.site/GPA-cba0f42fd8ac4bb7bd63c383e089146f): **3.69/4.00**    Ranking: **1/39**
 - Main Courses: Physical Geography, Human Geography, GIS & RS Theory, Advanced Mathematic, Geographical Research Methods.
 - Awards & Scholarships
     - [Shanghai Outstanding Graduate](https://swamp-maraca-1c5.notion.site/outstanding-graduation-2bc901ae833b40f4ab34db3c1e4e6a3d) (2 / 39)
@@ -49,7 +49,7 @@
 
 *In progress (Online)*
 
-- [Coursera](https://www.coursera.org/user/3e6257745574d52616467134343dd6db)
+- [**Coursera**](https://www.coursera.org/user/3e6257745574d52616467134343dd6db)
     - `Data Science`
         - [Machine Learning - Standford](https://coursera.org/share/05fe002e0048af24d1075f0b5d650f6d)
         - [R Programming - JHU](https://coursera.org/share/dce4b44f3d5538c9da1bc701eac1b135)
@@ -71,7 +71,7 @@
         - [Advanced Writing - UCI](https://coursera.org/share/820afe28f98abf578dec54a3b158180c)
         - [Getting Started with Essay Writing - UCI](https://coursera.org/share/823db706a0fcf2f264923d535f27cb89)
         - [Grammar and Punctuation - UCI](https://coursera.org/share/4bb5c407f546fe7466b72bb3267f54a1)
-- [Datacamp](https://www.datacamp.com/profile/segs007-59d602cc-1245-4ede-a262-b1ccf3b6ef92)
+- [**Datacamp**](https://www.datacamp.com/profile/segs007-59d602cc-1245-4ede-a262-b1ccf3b6ef92)
     - `Python`
         - Data Engineering for Everyone
         - [Analyzing Social Media Data in Python](https://swamp-maraca-1c5.notion.site/Analyzing-Social-Media-Data-in-Python-11cc4e98fa53420f80dd8de341911181)
@@ -119,7 +119,7 @@
     - `Projects`
         - Introduction to DataCamp Projects
        
-- Udacity Data Scientist Nano degree
+- **Udacity Data Scientist Nano degree**
     - Part 00 Mathematic Foundations
         - [Descriptive Statistics - Part I](https://swamp-maraca-1c5.notion.site/Descriptive-Statistics-Part-I-6badac4079044ebca0fe719545675ef6)
         - [Descriptive Statistics - Part II](https://swamp-maraca-1c5.notion.site/Descriptive-Statistics-Part-II-72dfef5f6adb449dacc11f651dd3b6f6)
