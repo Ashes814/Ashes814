@@ -141,7 +141,8 @@
         - [NLP Pipelines](https://swamp-maraca-1c5.notion.site/NLP-Pipelines-346aad25f696454f90aed27f1c52c9f4)
         - [ML Pipelines](https://swamp-maraca-1c5.notion.site/ML-Pipelines-81da58df614044389b6aa2513ce5b9f0)
         - [Build Linkedin Profile](https://swamp-maraca-1c5.notion.site/Build-Linkedin-Profile-4a519b9c24c044d1ac5f740c2e6f07a4)
-        
+- Udemy
+  - [The Complete JavaScript Course](https://swamp-maraca-1c5.notion.site/The-Complete-JavaScript-Course-851a57f7930d4312aa8dcb8cf238cc21)
 - Bilibili
     - [Python面向对象](https://swamp-maraca-1c5.notion.site/Python-133dbe48595c4689836f3a1aff86dbb6)
     - [Python包和模块](https://swamp-maraca-1c5.notion.site/Python-8bf2b5aed9a741b6bc846d6a098027ea)
@@ -223,7 +224,7 @@ My "native"
 
 # 📜 Publication
 
-- Lishan Xiao, Sha Huang, Zhilong Ye, **Ouwen Zhang**, Tao Lin. Identifying multiple stakeholders’ roles and network in urban waste separation management-a case study in Xiamen, China[J]. *Journal of Cleaner Production*, 2021, 278.
+- [Lishan Xiao, Sha Huang, Zhilong Ye, **Ouwen Zhang**, Tao Lin. Identifying multiple stakeholders’ roles and network in urban waste separation management-a case study in Xiamen, China[J]. *Journal of Cleaner Production*, 2021, 278.](https://www.sciencedirect.com/science/article/abs/pii/S0959652620336143)
 
 ---
 
