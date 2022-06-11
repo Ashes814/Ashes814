@@ -161,9 +161,11 @@
 
 - Created thematic maps of automotive sales network with *QGIS*.
 - Developed scripts to process spatial data with *Pyqgis*.
-- Managed geodatabase of automotive sales network with Python and SQL.
+- Managed database of automotive sales network with Python and SQL.
 - Crawled information from different websites related to automotive sales networks with *scrapy*.
 - Map Visuallization for Sales Network.
+- [Report of the White Spot Analysis](https://swamp-maraca-1c5.notion.site/Report-of-the-White-Spot-Analysis-f4789ea173f74dac97892f14ae9caa1d)
+
 
 ## **Internship of Education**
 
@@ -222,13 +224,13 @@ My "native"
 
 ---
 
-# 📜 Publication
+# 📜 Publications
 
 - [Lishan Xiao, Sha Huang, Zhilong Ye, **Ouwen Zhang**, Tao Lin. Identifying multiple stakeholders’ roles and network in urban waste separation management-a case study in Xiamen, China[J]. *Journal of Cleaner Production*, 2021, 278.](https://www.sciencedirect.com/science/article/abs/pii/S0959652620336143)
 
 ---
 
-# 📚 My Projects
+# 📚 Projects
 
 ## Technical Blog
 
