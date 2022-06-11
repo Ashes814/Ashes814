@@ -141,9 +141,10 @@
         - [NLP Pipelines](https://swamp-maraca-1c5.notion.site/NLP-Pipelines-346aad25f696454f90aed27f1c52c9f4)
         - [ML Pipelines](https://swamp-maraca-1c5.notion.site/ML-Pipelines-81da58df614044389b6aa2513ce5b9f0)
         - [Build Linkedin Profile](https://swamp-maraca-1c5.notion.site/Build-Linkedin-Profile-4a519b9c24c044d1ac5f740c2e6f07a4)
-- Udemy
-  - [The Complete JavaScript Course](https://swamp-maraca-1c5.notion.site/The-Complete-JavaScript-Course-851a57f7930d4312aa8dcb8cf238cc21)
-- Bilibili
+- **Udemy**
+  - `Web Development`
+    - [The Complete JavaScript Course](https://swamp-maraca-1c5.notion.site/The-Complete-JavaScript-Course-851a57f7930d4312aa8dcb8cf238cc21)
+- **Bilibili**
     - [Python面向对象](https://swamp-maraca-1c5.notion.site/Python-133dbe48595c4689836f3a1aff86dbb6)
     - [Python包和模块](https://swamp-maraca-1c5.notion.site/Python-8bf2b5aed9a741b6bc846d6a098027ea)
     - [线性代数基础](https://swamp-maraca-1c5.notion.site/8fd21f7f44724d8d8d4817fbc2a34d6d)
@@ -186,13 +187,15 @@
 
 My "native" programming language, I've worked with it for over 2 years
 
+`Javascript` ⭐️⭐️⭐️⭐️⭐️
+
 `R` ⭐️
 
 My "native" 
 
 `Matlab / Octave`⭐️
 
-`SQL` ⭐️
+`SQL` ⭐️⭐️⭐️
 
 ## 💻 Softwares
 
@@ -215,8 +218,8 @@ My "native"
 
 ### ENGLISH
 
-- TOEFL: 101 (R: 29 L: 26 S: 23 W: 23)
-- GRE (V: 158, Q: 170, W: 3)
+- `TOEFL`: 101 (R: 29 L: 26 S: 23 W: 23)
+- `GRE` (V: 158, Q: 170, W: 3)
 
 ### Nation Computer Rank Examination (NCRE)
 
@@ -232,19 +235,19 @@ My "native"
 
 # 📚 Projects
 
-## Technical Blog
+## Technical Blogs
 
-### 计算机组成原理知识科普
+### Computer Science Blogs
 
 - [主频高的CPU性能一定比主频低的快吗?](https://zhuanlan.zhihu.com/p/522635811)
 - [计算机传输数据时出错了怎么办?](https://zhuanlan.zhihu.com/p/524439356)
-
-### Others
+- [计算机中的数字如何表示?(原码,补码,反码,移码)](https://zhuanlan.zhihu.com/p/527145773)
+### GIS Blogs
 - [Find where has most AirBnb hosts](https://swamp-maraca-1c5.notion.site/Airbnb_Readme-a7b8ba49bc9d4dc6a53a15e1067173cf)
 
 - [一个网站解决中国行政区划图形数据](https://swamp-maraca-1c5.notion.site/8fe8e0348f9044e6b951cf717df4af6f) 
 
-## Web Application
+## Web Applications
 - [World Bank Data Dashboard](https://ashes814-first.herokuapp.com)
 
 ## Academic Projects
