@@ -229,7 +229,9 @@ My "native"
 
 # 📜 Publications
 
-- [Lishan Xiao, Sha Huang, Zhilong Ye, **Ouwen Zhang**, Tao Lin. Identifying multiple stakeholders’ roles and network in urban waste separation management-a case study in Xiamen, China[J]. *Journal of Cleaner Production*, 2021, 278.](https://www.sciencedirect.com/science/article/abs/pii/S0959652620336143)
+- [**Ouwen Zhang**, Lijie Gao, Weiyue Li, Lishan Xiao. Predicting sludge generation patterns and carbon reduction potential under Shared Socioeconomic Pathways[J]. *Journal of Environmental Management* (JCR Q1), 2022](https://www.sciencedirect.com/science/article/pii/S0301479722016619?dgcid=author#appsec1)
+
+- [Lishan Xiao, Sha Huang, Zhilong Ye, **Ouwen Zhang**, Tao Lin. Identifying multiple stakeholders’ roles and network in urban waste separation management-a case study in Xiamen, China[J]. *Journal of Cleaner Production* (JCR Q1), 2021](https://www.sciencedirect.com/science/article/abs/pii/S0959652620336143)
 
 ---
 
