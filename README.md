@@ -150,6 +150,8 @@
     - [Python包和模块](https://swamp-maraca-1c5.notion.site/Python-8bf2b5aed9a741b6bc846d6a098027ea)
     - [线性代数基础](https://swamp-maraca-1c5.notion.site/8fd21f7f44724d8d8d4817fbc2a34d6d)
     - [概率论与数理统计](https://swamp-maraca-1c5.notion.site/6a384e18c6e044bd8ab3ea7a5d8944a5)
+- **Reading**
+    - [《计算机是怎样跑起来的》——矢泽久雄]()
 
 ---
 
