@@ -1,6 +1,7 @@
 <h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃！𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 欧欧</h2>
 
-> 🔥 GISer by day, thinker at night!!
+> 🔥 GISer by day, thinker at night!
+
 > 🔥  不积跬步，无以至千里 / No step, no mile
 
 ---
@@ -10,7 +11,7 @@
   <a href="1000444691@smail.shnu.edu.cn"><img  src="https://img.shields.io/badge/Email-1000444691@smail.shnu.edu.cn-brightgreen" alt="Email"></a>
 </p>
 
-**𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
+**About me**
 
 - 🏫 Msc in Geographic Information Science, PolyU Hong Kong, China.
 - 🏠 Internship at Urban Science as a Geographic Data Analyst.
