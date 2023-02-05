@@ -1,10 +1,13 @@
 <h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃！𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 欧欧</h2>
 
-🤝 𝑰 𝒂𝒎 𝒂 GIS 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 and Explorer.
+> 🔥 GISer by day, thinker at night!!
+> 🔥  不积跬步，无以至千里 / No step, no mile
+
+---
 
 <p>
   <a href="https://ouwen-z-site.netlify.app"><img src="https://img.shields.io/badge/GIS-欧欧主页-blue" alt="Personal Web Of OO"></a>
-  <img src="https://img.shields.io/badge/weChat-Ljc--10c-brightgreen" alt="juejin">
+  <a href="1000444691@smail.shnu.edu.cn"><img  src="https://img.shields.io/badge/Email-1000444691@smail.shnu.edu.cn-brightgreen" alt="Email"></a>
 </p>
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
