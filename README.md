@@ -33,5 +33,5 @@
 [![vscode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
-<a href="https://github.com/Ashes814"><img src="https://github-readme-stats.vercel.app/api?username=Ashes814&show_icons=true&theme=radical"  alt="Owen Zhang's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Ashes814&show_icons=true&theme=radical" style="max-width:100%;">
+<a href="https://github.com/Ashes814"><img src="https://github-readme-stats.vercel.app/api?username=Ashes814&show_icons=true&theme=prussian"  alt="Owen Zhang's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Ashes814&show_icons=true&theme=prussian" style="max-width:100%;">
 </a>
