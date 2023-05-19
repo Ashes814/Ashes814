@@ -7,13 +7,13 @@
 ---
 
 <p>
-  <a href="https://ouwen-z-site.netlify.app"><img src="https://img.shields.io/badge/GIS-欧欧主页-blue" alt="Personal Web Of OO"></a>
+  <a href="https://zhangouwen.netlify.app"><img src="https://img.shields.io/badge/GIS-欧欧主页-blue" alt="Personal Web Of OO"></a>
   <a href="1000444691@smail.shnu.edu.cn"><img  src="https://img.shields.io/badge/Email-1000444691@smail.shnu.edu.cn-brightgreen" alt="Email"></a>
 </p>
 
 **About me**
 
-- 🏫 Msc in Geographic Information Science, PolyU Hong Kong, China.
+- 🏫 Msc in Geographic Information Science.
 - 🏠 Internship at Urban Science as a Geographic Data Analyst.
 - 💼 Interested in WebGIS development and Spatial Data Science.
 - ❤️ Coding, Map Visualization and Geography will build my career.
