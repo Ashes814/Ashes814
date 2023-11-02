@@ -13,10 +13,11 @@
 
 **About me**
 
-- 🏫 Msc in Geographic Information Science.
-- 🏠 Internship at Urban Science as a Geographic Data Analyst.
-- 💼 Interested in WebGIS development and Spatial Data Science.
-- ❤️ Coding, Map Visualization and Geography will build my career.
+- 🏫 Msc in GIS (PolyU).
+- 🏠 Bsc in Geography (SHNU: GPA 1 / 40; National Scholarship 1 / 200; Shanghai Outstanding Graduate)
+- 💼 [Publications on JEMA](https://scholar.google.com/citations?hl=zh-CN&user=t0p2VIYAAAAJ) (中科院 1 区 Top, JCR Q1)
+- 💼 Fancy in WebGIS development and Spatial Data Science.
+- ❤️ Coding, Spatial Big Data Mining and Geography build my career.
 
 **Languages and Tools:**
 
@@ -27,7 +28,11 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-red?style=flat-square&logo=springboot)
+
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-%23fdc167?style=flat-square&logo=postgresql&logoColor=000000)
+![PostGIS](https://img.shields.io/badge/-PostgreGIS-%23fdc167?style=flat-square&logo=postgresql&logoColor=000000)
 
 [![Mac OS](https://img.shields.io/badge/MacOS-Ventura-4e9eee?style=flat-square&logo=macos&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
 [![vscode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
