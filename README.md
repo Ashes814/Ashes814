@@ -7,8 +7,8 @@
 ---
 
 <p>
-  <a href="https://zhangouwen.netlify.app"><img src="https://img.shields.io/badge/GIS-欧欧主页-blue" alt="Personal Web Of OO"></a>
-  <a href="1000444691@smail.shnu.edu.cn"><img  src="https://img.shields.io/badge/Email-1000444691@smail.shnu.edu.cn-brightgreen" alt="Email"></a>
+  <a href="https://ouwen.netlify.app"><img src="https://img.shields.io/badge/GIS-欧欧主页-blue" alt="Personal Web Of OO"></a>
+  <a href="ouwen.zhang@connect.polyu.hk"><img  src="https://img.shields.io/badge/Email-ouwen.zhang@connect.polyu.hk-brightgreen" alt="Email"></a>
 </p>
 
 **About me**
